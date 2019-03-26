@@ -25,3 +25,23 @@ Mass Symbols:
 * $\lambda - \frac{mass}{length}$
 * $\sigma - \frac{mass}{area}$
 * $\rho - \frac{mass}{volume}$
+
+---
+
+**Example:** $\sigma = \frac{mass}{area} \rightarrow mass = \sigma * area$
+
+![Center of Mass](https://i.imgur.com/Pnrv0ut.png)
+
+Region 1:
+* mass ($m_{1}$) $= \sigma (30 * 10)$
+* $(x_{1}y_{1}) = (15, 5)$
+
+Region 2:
+* mass($m_{2}$) $= \sigma (10 * 20)$
+* $(x_{2}y_{2}) = (5, 20)$
+
+Region 3:
+* mass($m_{3}$) $= \sigma (10 * 10)$
+* $(x_{3}y_{3}) = (15, 25)$
+
+---
