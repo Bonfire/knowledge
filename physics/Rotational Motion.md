@@ -34,6 +34,16 @@ Rotational Kinetic Energy:
 * $K = \frac{1}{2} (\sum_{i}m_{i}r_{i}^2)$
 * $K = \frac{1}{2}I\omega^2$; where $I = \sum_{i}m_{i}r_{i}^2 = \frac{1}{2}mv^{2}$
 
+Moment of Inertia (I):
+* $I = \sum_{i}m_{i}r_{i}^2$
+* Like a mass in rotational motion
+* Resistance with rotational force
+* Measured in $kgm^{2}$
+* Depends on:
+  * Masses
+  * Distribution of masses
+  * Axis of rotation
+
 **Examples**
 
 * A rigid object rotates in a counterclockwise sense around a fixed axis. Each of the following pairs of quantities represents an initial angular position and a final angular position of the rigid object. Which of the sets can only occur if the rigid object rotates through more than 180°?
@@ -61,4 +71,4 @@ Rotational Kinetic Energy:
   * The wheel has a radius of 0.500 m and made 320 revolutions. The distance traveled is $s = r\theta = (0.500 m)(320 rev)(\frac{2π rad}{1 rev}) = 1.00 × 103 m = 1.00 km$
 * Suppose a car’s standard tires are replaced with tires 1.30 times larger in diameter. Will the car’s speedometer reading be
   * 1.3x too low
-  * The speedometer measures the number of revolutions per second of the tires. A larger tire will travel more distance in one full revolution as $2\pi r$. 
+  * The speedometer measures the number of revolutions per second of the tires. A larger tire will travel more distance in one full revolution as $2\pi r$.
